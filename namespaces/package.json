@@ -1,0 +1,11 @@
+{
+  "name": "ts-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc -p tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
